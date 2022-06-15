@@ -60,7 +60,7 @@ December is the worst month to start a campaign. I say this despite most other m
 
 ### Graph of Results
 
-![Theater Outcomes based on Goals](/resources/Theater_Outcomes_vs_Goals.png?raw=true "Title")
+![Theater Outcomes based on Goals](/resources/Outcomes_vs_Goals.png?raw=true "Title")
 
 ### Conclusion 1
 
