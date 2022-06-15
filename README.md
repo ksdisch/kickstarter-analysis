@@ -53,7 +53,7 @@ May is the best month to launch a fundraising campaign, followed closely by June
 December is the worst month to start a campaign. I say this despite most other months having a higher total number of failures, because those other months also have a greater total number of campaigns launched. The number of failed campaigns in December is nearly equal to the number of successful ones, which is not the case in any other month. If we looked at the percentage of campaigns that succeeded, failed, and were canceled by month, December would have the highest rate of failure.
 
 ### Graph of Results
-![alt text](https://github.com/[ksdisch]/[kickstarter-analysis]/blob/[main]/resources/resources/Theater_Outcomes_vs_Launch.png?raw=true)
+![lt text](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Title")
 !(/resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
