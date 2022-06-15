@@ -42,6 +42,10 @@ This analysis was also straightforward for the most part, but the COUNTIFS() fun
 
 ## Results
 
+### Graph of Results
+
+![Theater Outcomes vs Launch Date](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Title")
+
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 ### Conclusion 1
@@ -52,11 +56,11 @@ May is the best month to launch a fundraising campaign, followed closely by June
 
 December is the worst month to start a campaign. I say this despite most other months having a higher total number of failures, because those other months also have a greater total number of campaigns launched. The number of failed campaigns in December is nearly equal to the number of successful ones, which is not the case in any other month. If we looked at the percentage of campaigns that succeeded, failed, and were canceled by month, December would have the highest rate of failure.
 
-### Graph of Results
-![lt text](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Title")
-!(/resources/Theater_Outcomes_vs_Launch.png)
-
 - What can you conclude about the Outcomes based on Goals?
+
+### Graph of Results
+
+![Theater Outcomes based on Goals](/resources/Theater_Outcomes_vs_Goals.png?raw=true "Title")
 
 ### Conclusion 1
 
@@ -65,12 +69,6 @@ The most obvious conclusion from this analysis is that a campaign's chances of s
 ### Conclusion 2
 
 The highest rate of success was for less than $1,000, which makes sense but is not very helpful because that fundraising total will not go very far in putting on a successful play. The most valuable conclusion I draw from this analysis is that setting the goal between $35,000 and $44,999 is the best option. The percentage of these campaigns that were successful (66.67%) was only slightly lower than that of less than $1,000 (75.81%) and $1,000 to $4,999 (72.66%), and you can put on a much better play with that larger sum of money.
-
-### Graph of Results
-
-!(/resources/Theater_Outcomes_vs_Goals.png)
-
-- What are some limitations of this dataset?
 
 ### Limitation 1
 
